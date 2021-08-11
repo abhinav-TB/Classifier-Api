@@ -32,7 +32,7 @@ class Net(nn.Module):
 
 model = Net()
 
-model.load_state_dict(torch.load('app/cifar_net.pth', map_location=torch.device('cpu')))
+model.load_state_dict(torch.load('cifar_net.pth', map_location=torch.device('cpu')))
 model.eval()
 
 
