@@ -1,7 +1,7 @@
 
 # Classifier Api
 
-A APi for a binary Classifier for classifing a subset of CIFAR10 Dataset
+Binary classifer Api for classifing a subset of CIFAR10 Dataset
 
 ## API Reference
 
