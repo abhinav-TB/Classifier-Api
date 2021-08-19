@@ -1,7 +1,7 @@
 
 # Classifier Api
 
-Binary classifer Api for classifing a subset of CIFAR10 Dataset
+Binary classifer Api for classifing images of trucks and ships
 
 ## API Reference
 
